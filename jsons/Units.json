@@ -2,9 +2,14 @@
 	{
 		"name": "Roirraw",
 		"unitType": "Sword",
+		"uniques": [ 
+"May create improvements on water resources", 
+"Can build [Land] improvements on tiles",
+"Can build [Water] improvements on tiles",
+],
 		"uniqueTo": "Upside-Down",
 		"replaces": "Warrior",
-		"movement": 2,
+		"movement": 3,
 		"strength": 8,
 		"cost": 20,
         "obsoleteTech": "Metal Casting",
