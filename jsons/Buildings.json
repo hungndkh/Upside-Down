@@ -63,7 +63,7 @@
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]",
 			"[-25]% Gold cost of acquiring tiles [in this city]",
-			"New [Military] units start with [150] Experience [in this city]",
+			"New [Military] units start with [1500] Experience [in this city]",
 			"Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
   	},
@@ -73,8 +73,8 @@
 		"uniqueTo": "Upside-Down",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
-		"culture": 2,
-		"faith": 2,
+		"culture": 20,
+		"faith": 20,
 		"happiness": 200,
 		"requiredBuilding": "Shrine",
 		"requiredTech": "Philosophy",
@@ -114,7 +114,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
-		"specialistSlots": {"Scientist": 2},
+		"specialistSlots": {"Scientist": 20},
 		"culture": 3,
 		"requiredBuilding": "Library",
 		"uniques": ["[+2 Science] from [Jungle] tiles [in this city]"],
@@ -167,7 +167,7 @@
 		"specialistSlots": {"Engineer": 1},
 		"hurryCostModifier": 25,
 		"maintenance": 2,
-		"uniques": ["[+25]% Great Person generation [in this city]"],
+		"uniques": ["[+75]% Great Person generation [in this city]"],
 		"requiredTech": "Economics"
 	}
 ]
