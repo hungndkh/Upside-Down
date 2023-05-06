@@ -6,8 +6,8 @@
 		"culture": 1,
 		"turnsToBuild": 4,
 		"uniques": ["Can only be built on [Coastal] tiles",
-			"[+1 Culture] for each adjacent [Iaom]",
-			"[+1 Gold] <after discovering [Flight]>"],
+			"[+10 Culture] for each adjacent [Iaom]",
+			"[+10 Gold] <after discovering [Flight]>"],
 		"techRequired": "Construction",
 		"shortcutKey": "M"
 	},
