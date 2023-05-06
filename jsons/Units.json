@@ -418,7 +418,7 @@
 			"[+15]% Strength bonus for [Military] units within [20] tiles",
 			"All adjacent units heal [+50] HP when healing",
 			"[+50] HP when healing",
-			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can instantly construct a [Citadel] improvement <[4] times> <by consuming this unit>",
 			"Great Person - [War]",
 			"Unbuildable",
 			"Uncapturable"],
